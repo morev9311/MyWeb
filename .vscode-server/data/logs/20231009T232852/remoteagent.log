@@ -1,0 +1,60 @@
+2023-10-09 23:28:52.163 [info] 
+
+
+
+
+2023-10-09 23:28:52.174 [info] Extension host agent started.
+2023-10-09 23:28:52.383 [info] [127.0.0.1][967c13fd][ManagementConnection] New connection established.
+2023-10-09 23:28:52.748 [info] [127.0.0.1][620fa486][ExtensionHostConnection] New connection established.
+2023-10-09 23:28:52.829 [info] [127.0.0.1][620fa486][ExtensionHostConnection] <1513> Launched Extension Host Process.
+2023-10-09 23:32:00.465 [info] Getting Manifest... ritwickdey.liveserver
+2023-10-09 23:32:00.525 [info] Installing extension: ritwickdey.liveserver
+2023-10-09 23:32:01.344 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-10-09 23:32:03.834 [info] Extracted extension to file:///home/morales/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-10-09 23:32:03.845 [info] Renamed to /home/morales/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-10-09 23:32:03.847 [info] Extracting extension completed. ritwickdey.liveserver
+2023-10-09 23:32:03.853 [info] Extension installed successfully: ritwickdey.liveserver
+2023-10-09 23:32:33.200 [info] [127.0.0.1][967c13fd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 23:32:33.201 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.202 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.202 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.202 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.202 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.203 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:32:33.245 [info] [127.0.0.1][620fa486][ExtensionHostConnection] <1513> Extension Host Process exited with code: 0, signal: null.

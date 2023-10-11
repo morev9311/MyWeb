@@ -1,0 +1,40 @@
+2023-10-09 23:24:38.372 [info] 
+
+
+
+
+2023-10-09 23:24:38.372 [info] Extension host agent started.
+2023-10-09 23:24:38.381 [info] Started initializing default profile extensions in extensions installation folder. file:///home/morales/.vscode-server/extensions
+2023-10-09 23:24:38.391 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/morales/.vscode-server/extensions
+2023-10-09 23:24:38.587 [info] [127.0.0.1][7509c6a4][ManagementConnection] New connection established.
+2023-10-09 23:24:38.806 [info] [127.0.0.1][5573b546][ExtensionHostConnection] New connection established.
+2023-10-09 23:24:38.816 [info] [127.0.0.1][5573b546][ExtensionHostConnection] <661> Launched Extension Host Process.
+2023-10-09 23:28:50.505 [info] [127.0.0.1][7509c6a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 23:28:50.506 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-09 23:28:50.507 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+2023-10-09 23:28:50.507 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+2023-10-09 23:28:50.508 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+2023-10-09 23:28:50.508 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+2023-10-09 23:28:50.508 [error] Error: Throttler is disposed
+    at r.queue (/home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/morales/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+2023-10-09 23:28:50.552 [info] [127.0.0.1][5573b546][ExtensionHostConnection] <661> Extension Host Process exited with code: 0, signal: null.
